@@ -1,0 +1,64 @@
+.text{
+   width: 400px;
+   height: 40px;
+}
+
+.inputOne{
+   display: flex;
+   justify-content: center;
+   margin-top: 20px;
+}
+
+button{
+    width: 70px;
+    height: 40px;
+}
+
+.buttonOne{
+    display: flex;
+    justify-content: center;
+    margin-top: -40px;
+    margin-left: 470px;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+
+.bigButton {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 1px solid red;
+}
+
+.text {
+	padding: 10px;
+}
+
+.bigBoxOne {
+	display: block;
+	margin-top: 10px;
+}
+
+.bigBoxTwo {
+	top: 10vh;
+	position: absolute;
+	display: none;
+	width: 100%;
+	height: 90vh;
+	background-color: deepskyblue;
+	z-index: 999;
+}
+
+.block {
+	display: block;
+}
+
+h1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
